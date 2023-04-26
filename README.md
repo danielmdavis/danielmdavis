@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I graduated in 2014 with a degree in philosophy and history. After graduating [Launch Academy](https://github.com/LaunchAcademy) I worked at [Oracle](https://github.com/oracle) as a solutions engineer for two and a half years. Now, as a [Recurse Center](https://github.com/recursecenter) graduate, I'm hoping to apply my passion for all things React.js and take the plunge into front-end/full-stack work.
+
+- 🌱 Currently learning: Typescript, Next.js & D3.js
+- 🔭 Currently working on: a modular, anonymous [chat service](https://github.com/danielmdavis/microchat) build on "NextBase" with Typescript
+- 📫 Reach me at: [email](danis1911@gmail.com) || [linkedin](https://www.linkedin.com/in/danielmdavis/) || 603 973 2161
+
+
 <!--
 **danielmdavis/danielmdavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
