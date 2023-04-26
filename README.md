@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, I'm Daniel.
 
 I graduated in 2014 with a degree in philosophy and history. After graduating [Launch Academy](https://github.com/LaunchAcademy) I worked at [Oracle](https://github.com/oracle) as a solutions engineer for two and a half years. Now, as a [Recurse Center](https://github.com/recursecenter) graduate, I'm hoping to apply my passion for all things React.js and take the plunge into front-end/full-stack work.
 
