@@ -2,8 +2,8 @@
 
 I graduated in 2014 with a degree in philosophy and history. After graduating [Launch Academy](https://github.com/LaunchAcademy) I worked at [Oracle](https://github.com/oracle) as a solutions engineer for two and a half years. Now, as a [Recurse Center](https://github.com/recursecenter) graduate, I'm hoping to apply my passion for all things React.js and take the plunge into front-end/full-stack work.
 
-- 🌱 Currently learning: Typescript, Next.js & D3.js
-- 🔭 Currently working on: a modular, anonymous [chat service](https://github.com/danielmdavis/microchat) build on "NextBase" with Typescript
+- 🌱 Currently learning: Typescript, Nextjs & D3.js
+- 🔭 Currently working on: an animated, live-updating [voting leaderboard](https://vibecamp-graph.vercel.app) build on "NextBase" with TypeScript
 - 📫 Reach me at: [email](danis1911@gmail.com) || [linkedin](https://www.linkedin.com/in/danielmdavis/) || 603 973 2161
 
 
